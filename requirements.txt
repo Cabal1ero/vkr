@@ -5,4 +5,5 @@ pillow
 yookassa
 gunicorn
 psycopg2-binary
-python-dotenv 
+python-dotenv
+whitenoise 
